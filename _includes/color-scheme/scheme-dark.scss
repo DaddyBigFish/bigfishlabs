@@ -1,25 +1,23 @@
 /* Scheme dark */
-$brand-color: #0070ff;
+$brand-color: #ff009f;
 $white: #fff;
-$dark: #131212;
-
-$background-color: #131212;
-$background-color-alt: #161d25;
-
-$text-color: #fff;
-$text-color-alt: #ccc;
-
-$heading-font-color: $text-color;
-
-$link-color: $text-color;
-$link-color-hover: $text-color;
-
-$button-color: $text-color;
-$button-background-color: $brand-color;
-$button-background-hover: darken($brand-color, 5%);
-
-$border-color: #131212;
-
-$hr-color: #000;
-
-$syntax-highlighting-background: $background-color-alt;
+$light-gray: #fafafa;
+$gray: #cdcdce;
+$dark: #121212;
+$hero-radial-gradient: -webkit-repeating-radial-gradient(center center, rgba(255, 0, 159, 0.7), rgba(255, 0, 159, 0.7) 2px, transparent 2px, transparent 100%);
+$background-color: #121212;
+$background-alt-color: #1a1a1a;
+$background-alt-color-2: #242427;
+$text-color: #cdcdce;
+$text-alt-color: #cdcdce;
+$heading-font-color: #fafafa;
+$link-color: #fafafa;
+$link-color-hover: #fafafa;
+$button-color: #fff;
+$button-background-color: var(--brand-color);
+$button-background-hover: #e6008f;
+$border-color: #1a1a1a;
+$border-alt-color: #121212;
+$th-color: #121212;
+$tr-color: #1a1a1a;
+$syntax-highlighting-background: #1a1a1a;
