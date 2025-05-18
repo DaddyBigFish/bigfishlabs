@@ -18,10 +18,10 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, I'm <span class="hero__name">Pavlo Osadchyi</span>.
-  hero__job: Software engineer
-  hero__description: Creative and pragmatic problem solver, husband and father.
-  hero__button__text: Read about me
+  hero__title: Welcome to <span class="hero__name">BigFishLabs</span>.
+  hero__job: Learning for everyone.
+  hero__description: Labs for methodology - not just CTF.
+  hero__button__text: See more
   hero__button__link: '/about'
   hero__image: '/images/front.jpeg'
 
@@ -37,7 +37,7 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: me@pavloosadchyi.com # Add your email for contant form
+  email: me@example.com # Add your email for contant form
   description: If you are interested to talk, just shoot me a message
 
 # NOTE
@@ -59,7 +59,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: pavloosadchyicom # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: example # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
